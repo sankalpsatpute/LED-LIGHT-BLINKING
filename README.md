@@ -38,4 +38,4 @@ This project demonstrates how to blink an LED using an Arduino UNO. It is the mo
 
 ---
 
-Made with love by Sankalp Satpute
+Made with love by Sankalp Satpute (sanky)
